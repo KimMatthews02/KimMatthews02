@@ -1,20 +1,9 @@
-# <a href="https://www.linkedin.com/in/kim-matthews-84bba4b9/">Kim Matthews<a>'s IT and Cybersecurity Project Portfolio 🔐
-
-I'm passionate about cybersecurity and love tackling complex challenges through hands-on projects. From vulnerability management to threat detection, these projects allow me to dive deep into the ever-evolving landscape of cybersecurity. Please feel free to check them out and see the work I’ve put into enhancing security operations and processes!
-
-
-## ⚠️ Vulnerability Management Projects
-
-- **[Vulnerability Management Program Implementation](https://github.com/KimMatthews02/vulnerability-management-program/tree/main)**
-**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/KimMatthews02/STIG-Implementation)**
-
-## 🚨 Threat Hunting and Security Operations
+# <a href="https://www.linked## 🚨 Threat Hunting and Security Operations
 
 - **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/KimMatthews02/threat-hunting-scenario-tor/blob/main/README.md)**
 
 ## Mock RMF Implementation for a DoD Web Application
--**[Mock RMF Implementation for a DoD Web Application](https://github.com/KimMatthews02/Mock-RMF-Implementation-for-a-DoD-Web-Application)
+[Mock RMF Implementation for a DoD Web Application](https://github.com/KimMatthews02/Mock-RMF-Implementation-for-a-DoD-Web-Application)
 
 
 <hr/>
